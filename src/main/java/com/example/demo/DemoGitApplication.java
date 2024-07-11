@@ -11,6 +11,7 @@ public class DemoGitApplication {
 		//hello
 		System.out.println("hello");
 		//salut
+		System.out.println("salut");
 	}
 
 }
